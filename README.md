@@ -1,1 +1,1 @@
-# tobyfoord.com
+# openjdk-14.env.sh
